@@ -14,6 +14,7 @@ This script is designed to analyze SSH log files and perform various tasks such 
 
    ```bash
    git clone https://github.com/0x41414141-code/SSHLogger.git
+   cd SSHLogger
    sudo chmod +x script.sh
    sudo ./script.sh
    ```
